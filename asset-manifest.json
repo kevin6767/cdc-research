@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cdc-research/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cdc-research/static/js/main.0ab7f282.chunk.js",
+    "main.js.map": "/cdc-research/static/js/main.0ab7f282.chunk.js.map",
+    "runtime-main.js": "/cdc-research/static/js/runtime-main.b2b9c24e.js",
+    "runtime-main.js.map": "/cdc-research/static/js/runtime-main.b2b9c24e.js.map",
+    "static/js/2.11224a5d.chunk.js": "/cdc-research/static/js/2.11224a5d.chunk.js",
+    "static/js/2.11224a5d.chunk.js.map": "/cdc-research/static/js/2.11224a5d.chunk.js.map",
+    "index.html": "/cdc-research/index.html",
+    "precache-manifest.486528e973362fb8d784edc4e4d205e5.js": "/cdc-research/precache-manifest.486528e973362fb8d784edc4e4d205e5.js",
+    "service-worker.js": "/cdc-research/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cdc-research/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.11224a5d.chunk.js.LICENSE.txt": "/cdc-research/static/js/2.11224a5d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cdc-research/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2b9c24e.js",
+    "static/js/2.11224a5d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0ab7f282.chunk.js"
+  ]
+}
